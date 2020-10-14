@@ -1,0 +1,1512 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43.2
+    width: 1536
+    height: 790
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 371}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1536
+    height: 740
+  m_MinSize: {x: 679, y: 321}
+  m_MaxSize: {x: 12004, y: 8021}
+  vertical: 0
+  controlID: 48
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1096
+    y: 0
+    width: 440
+    height: 740
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 401
+    height: 419
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 419
+    width: 1096
+    height: 321
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 16}
+  - {fileID: 20}
+  - {fileID: 15}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1536
+    height: 790
+  m_MinSize: {x: 950, y: 371}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1536
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 770
+    width: 1536
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 10}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1096
+    height: 740
+  m_MinSize: {x: 404, y: 321}
+  m_MaxSize: {x: 8004, y: 8021}
+  vertical: 1
+  controlID: 29
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1096
+    height: 419
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
+  vertical: 0
+  controlID: 30
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 401
+    y: 0
+    width: 695
+    height: 419
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 19}
+  - {fileID: 14}
+  - {fileID: 12}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403.2
+    y: 92.8
+    width: 691
+    height: 398
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -270.80002
+    m_HBaseRangeMax: 270.80002
+    m_VBaseRangeMin: -152.40001
+    m_VBaseRangeMax: 152.40001
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 691
+      height: 381
+    m_Scale: {x: 1, y: 1.0132979}
+    m_Translation: {x: 345.5, y: 190.5}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -345.5
+      y: -187.99998
+      width: 691
+      height: 375.99997
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 863.75, y: 497.5}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1098
+    y: 92
+    width: 438
+    height: 710
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TestTypeToolbarIndex: 1
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 0}
+    newResultList: []
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories: []
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 13}
+    newResultList:
+    - id: '[Bowlmaster][suite]'
+      name: Bowlmaster
+      fullName: Bowlmaster
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[C:/Users/Rien/Documents/Bowlmaster/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll][suite]'
+      name: Assembly-CSharp-Editor.dll
+      fullName: C:/Users/Rien/Documents/Bowlmaster/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+      resultStatus: 1
+      duration: 0.8596099
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreDisplayTest][suite]'
+      name: ScoreDisplayTest
+      fullName: ScoreDisplayTest
+      resultStatus: 1
+      duration: 0.0502254
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreDisplayTest.T00PassingTest]'
+      name: T00PassingTest
+      fullName: ScoreDisplayTest.T00PassingTest
+      resultStatus: 1
+      duration: 0.0256664
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest][suite]'
+      name: ScoreMasterTest+ScoreTest
+      fullName: ScoreMasterTest+ScoreTest
+      resultStatus: 1
+      duration: 0.279155
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T00PassingTest]'
+      name: T00PassingTest
+      fullName: ScoreMasterTest+ScoreTest.T00PassingTest
+      resultStatus: 1
+      duration: 0.0110985
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T01OneStrikeReturnsEndTurn]'
+      name: T01OneStrikeReturnsEndTurn
+      fullName: ScoreMasterTest+ScoreTest.T01OneStrikeReturnsEndTurn
+      resultStatus: 1
+      duration: 0.0127558
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T02Bowl8ReturnsTidy]'
+      name: T02Bowl8ReturnsTidy
+      fullName: ScoreMasterTest+ScoreTest.T02Bowl8ReturnsTidy
+      resultStatus: 1
+      duration: 0.0102459
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T03SpareReturnsEndTurn]'
+      name: T03SpareReturnsEndTurn
+      fullName: ScoreMasterTest+ScoreTest.T03SpareReturnsEndTurn
+      resultStatus: 1
+      duration: 0.0133199
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T04EndOfLastFrameReturnsEndGame]'
+      name: T04EndOfLastFrameReturnsEndGame
+      fullName: ScoreMasterTest+ScoreTest.T04EndOfLastFrameReturnsEndGame
+      resultStatus: 1
+      duration: 0.010961
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T05Frame20StrikeReturnsReset]'
+      name: T05Frame20StrikeReturnsReset
+      fullName: ScoreMasterTest+ScoreTest.T05Frame20StrikeReturnsReset
+      resultStatus: 1
+      duration: 0.0106899
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T07SampleGameReturnsEndGame]'
+      name: T07SampleGameReturnsEndGame
+      fullName: ScoreMasterTest+ScoreTest.T07SampleGameReturnsEndGame
+      resultStatus: 1
+      duration: 0.0121576
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T08NoBowl21ReturnsEndGame]'
+      name: T08NoBowl21ReturnsEndGame
+      fullName: ScoreMasterTest+ScoreTest.T08NoBowl21ReturnsEndGame
+      resultStatus: 1
+      duration: 0.0120751
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T09NotAStikeOnFrame20WithAFrame21ReturnsTidy]'
+      name: T09NotAStikeOnFrame20WithAFrame21ReturnsTidy
+      fullName: ScoreMasterTest+ScoreTest.T09NotAStikeOnFrame20WithAFrame21ReturnsTidy
+      resultStatus: 1
+      duration: 0.0119996
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T10GutterBallOnFrame20ReturnsTidy]'
+      name: T10GutterBallOnFrame20ReturnsTidy
+      fullName: ScoreMasterTest+ScoreTest.T10GutterBallOnFrame20ReturnsTidy
+      resultStatus: 1
+      duration: 0.0111977
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T11StrikeOnSecondBowlOfOneFrameReturnsEndTurn]'
+      name: T11StrikeOnSecondBowlOfOneFrameReturnsEndTurn
+      fullName: ScoreMasterTest+ScoreTest.T11StrikeOnSecondBowlOfOneFrameReturnsEndTurn
+      resultStatus: 1
+      duration: 0.0116847
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest+ScoreTest.T12Dondi10thFrameTurkey]'
+      name: T12Dondi10thFrameTurkey
+      fullName: ScoreMasterTest+ScoreTest.T12Dondi10thFrameTurkey
+      resultStatus: 1
+      duration: 0.0106371
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1][suite]'
+      name: ScoreMasterTest1
+      fullName: ScoreMasterTest1
+      resultStatus: 1
+      duration: 0.4957904
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T00PassingTest]'
+      name: T00PassingTest
+      fullName: ScoreMasterTest1.T00PassingTest
+      resultStatus: 1
+      duration: 0.0056115
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T01Bowl23]'
+      name: T01Bowl23
+      fullName: ScoreMasterTest1.T01Bowl23
+      resultStatus: 1
+      duration: 0.0067772
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T02Bowl234]'
+      name: T02Bowl234
+      fullName: ScoreMasterTest1.T02Bowl234
+      resultStatus: 1
+      duration: 0.0061748
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T03Bowl2345]'
+      name: T03Bowl2345
+      fullName: ScoreMasterTest1.T03Bowl2345
+      resultStatus: 1
+      duration: 0.0081805
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T04Bowl23456]'
+      name: T04Bowl23456
+      fullName: ScoreMasterTest1.T04Bowl23456
+      resultStatus: 1
+      duration: 0.006622
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T05Bowl234561]'
+      name: T05Bowl234561
+      fullName: ScoreMasterTest1.T05Bowl234561
+      resultStatus: 1
+      duration: 0.0058588
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T06Bowl2345612]'
+      name: T06Bowl2345612
+      fullName: ScoreMasterTest1.T06Bowl2345612
+      resultStatus: 1
+      duration: 0.005602
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T07BowlX1]'
+      name: T07BowlX1
+      fullName: ScoreMasterTest1.T07BowlX1
+      resultStatus: 1
+      duration: 0.0049011
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T08Bowl19]'
+      name: T08Bowl19
+      fullName: ScoreMasterTest1.T08Bowl19
+      resultStatus: 1
+      duration: 0.0056367
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T09Bowl123455]'
+      name: T09Bowl123455
+      fullName: ScoreMasterTest1.T09Bowl123455
+      resultStatus: 1
+      duration: 0.0061835
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T10SpareBonus]'
+      name: T10SpareBonus
+      fullName: ScoreMasterTest1.T10SpareBonus
+      resultStatus: 1
+      duration: 0.0056525
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T11SpareBonus2]'
+      name: T11SpareBonus2
+      fullName: ScoreMasterTest1.T11SpareBonus2
+      resultStatus: 1
+      duration: 0.0048083
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T12StrikeBonus]'
+      name: T12StrikeBonus
+      fullName: ScoreMasterTest1.T12StrikeBonus
+      resultStatus: 1
+      duration: 0.0051907
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T13StrikeBonus3]'
+      name: T13StrikeBonus3
+      fullName: ScoreMasterTest1.T13StrikeBonus3
+      resultStatus: 1
+      duration: 0.0049987
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T14MultiStrikes]'
+      name: T14MultiStrikes
+      fullName: ScoreMasterTest1.T14MultiStrikes
+      resultStatus: 1
+      duration: 0.0055873
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T15MultiStrikes3]'
+      name: T15MultiStrikes3
+      fullName: ScoreMasterTest1.T15MultiStrikes3
+      resultStatus: 1
+      duration: 0.0045894
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T16TestGutterGame]'
+      name: T16TestGutterGame
+      fullName: ScoreMasterTest1.T16TestGutterGame
+      resultStatus: 1
+      duration: 0.0065323
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T17TestAllOnes]'
+      name: T17TestAllOnes
+      fullName: ScoreMasterTest1.T17TestAllOnes
+      resultStatus: 1
+      duration: 0.0050102
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T18TestAllStrikes]'
+      name: T18TestAllStrikes
+      fullName: ScoreMasterTest1.T18TestAllStrikes
+      resultStatus: 1
+      duration: 0.0055482
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T19TestImmediateStrikeBonus]'
+      name: T19TestImmediateStrikeBonus
+      fullName: ScoreMasterTest1.T19TestImmediateStrikeBonus
+      resultStatus: 1
+      duration: 0.005233
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T20SpareInLastFrame]'
+      name: T20SpareInLastFrame
+      fullName: ScoreMasterTest1.T20SpareInLastFrame
+      resultStatus: 1
+      duration: 0.0049288
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.T21StrikeInLastFrame]'
+      name: T21StrikeInLastFrame
+      fullName: ScoreMasterTest1.T21StrikeInLastFrame
+      resultStatus: 1
+      duration: 0.0061736
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG02GoldenCopyA]'
+      name: TG02GoldenCopyA
+      fullName: ScoreMasterTest1.TG02GoldenCopyA
+      resultStatus: 1
+      duration: 0.0055151
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG03GoldenCopyB1of3]'
+      name: TG03GoldenCopyB1of3
+      fullName: ScoreMasterTest1.TG03GoldenCopyB1of3
+      resultStatus: 1
+      duration: 0.004988
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG03GoldenCopyB2of3]'
+      name: TG03GoldenCopyB2of3
+      fullName: ScoreMasterTest1.TG03GoldenCopyB2of3
+      resultStatus: 1
+      duration: 0.0051563
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG03GoldenCopyB3of3]'
+      name: TG03GoldenCopyB3of3
+      fullName: ScoreMasterTest1.TG03GoldenCopyB3of3
+      resultStatus: 1
+      duration: 0.0048991
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG03GoldenCopyC1of3]'
+      name: TG03GoldenCopyC1of3
+      fullName: ScoreMasterTest1.TG03GoldenCopyC1of3
+      resultStatus: 1
+      duration: 0.0052254
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    - id: '[Assembly-CSharp-Editor][ScoreMasterTest1.TG03GoldenCopyC2of3]'
+      name: TG03GoldenCopyC2of3
+      fullName: ScoreMasterTest1.TG03GoldenCopyC2of3
+      resultStatus: 1
+      duration: 0.005598
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories: []
+      parentID: 
+    m_ResultText: ScoreMasterTest+ScoreTest (0.279s)
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: fde6ee2b
+      m_LastClickedID: 737076989
+      m_ExpandedIDs: 02d2acbafde6ee2b08711375ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+      - Verification
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403
+    y: 92
+    width: 691
+    height: 437
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107726431238514748, guid: 81b8704ed272a024daf61848dbaa19a8, type: 2}
+    - {fileID: 1107869924698201592, guid: 81b8704ed272a024daf61848dbaa19a8, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.811066
+      e01: 0
+      e02: 0
+      e03: -39.206882
+      e10: 0
+      e11: 0.811066
+      e12: 0
+      e13: 159.51071
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 550
+    width: 1173
+    height: 252
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_AnimEditor: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 0
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 511.2
+    width: 1094
+    height: 300
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scripts/Gameplay
+  m_ViewMode: 1
+  m_StartGridSize: 60
+  m_LastFolders:
+  - Assets/Scripts/Gameplay
+  m_LastFoldersGridSize: 60
+  m_LastProjectPath: C:\Users\Rien\Documents\Bowlmaster
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 25}
+    m_SelectedIDs: 48330000
+    m_LastClickedID: 13128
+    m_ExpandedIDs: 000000008e310000e23100001e3300002437000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000008e310000e23100001e33000024370000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 3024000098240000fc480000b2240000f82600004024000050240000842500003a240000bcb3feffc8240000000000003c240000faf7fdff60240000aef3ffff82e9feff4224000044240000fc2400004a250000c4270000ee8dfdff
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 5}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 60
+  m_DirectoriesAreaWidth: 115
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1098.4
+    y: 92.8
+    width: 438
+    height: 719
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 175
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 92.8
+    width: 399
+    height: 398
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: e6350000
+    m_LastClickedID: 13798
+    m_ExpandedIDs: 20efffff000000007c350000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 4}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Game
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 403.2
+    y: 92.8
+    width: 691
+    height: 398
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 1818.1671153247485
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 283.22845, y: 417.17752, z: -7.304938}
+    speed: 2
+    m_Value: {x: 283.22845, y: 417.17752, z: -7.304938}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 0
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 0
+    showImageEffects: 0
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 768.5925
+    speed: 2
+    m_Value: 768.5925
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 511.2
+    width: 1094
+    height: 300
+  m_PersistentViewDataDictionary: {fileID: 0}
